@@ -1,0 +1,7 @@
+Create a Utility that Turns Data in to midifile that uses 7 bit encoding and makes data encoded as SOUND, with the possibility of being overlayed in to MP3 as a beat to be used by DJs if kept within a low audiblity range.
+
+Use A certificate to encrhypt it and then keep encryption cert safe offline, break the key in to 5 pieces using an interlocking set of seperate certificates to allow for recovery of original certificate. Encrypt the data in the certificate comment. Break it apart in different fields based on the name and a cipher so the ability to  unlock can't be done simply. 
+
+One person holds the main key, 5 others hold the backup key which information kept in plane sight that will be released upon somoene's death. 
+
+This allows for music in DANCE/DJ's to intermix sacred knowledge in to the air. 
